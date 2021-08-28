@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.linha{
+    display:flex;
+    margin-top: 40px;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.151);
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+}
+.App{
+    max-width: 900px;
+    margin: auto;
+    background-color: rgba(92, 250, 197, 0.705);
+}
